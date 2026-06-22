@@ -148,6 +148,4 @@ flutter run
 - [ ] ID verification for trust badges
 - [ ] AI-powered item recommendations
 
----
 
-Built with ❤️ for the Dhaka community.
